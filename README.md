@@ -10,6 +10,8 @@
 Welcome to **Tung Sahur Clicker**, the most outrageously fun H5 idle clicker game set in the vibrant and chaotic Italian Brainrot universe! Get ready to tap your way to riches as our beloved character, Tung Tung Tung Sahur, busts out his signature, side-splitting dance moves under dazzling neon lights. Every click generates coins and infectious laughter – the perfect recipe for addictive casual gaming!
 
 This README serves as your ultimate guide to mastering Tung Sahur Clicker, packed with gameplay details, tips, strategies, and how to get the highest scores.
+![image](https://github.com/user-attachments/assets/5cc75aaf-ef79-473f-b368-8fcf4261bdba)
+
 
 ## Table of Contents
 
@@ -55,6 +57,9 @@ At its core, Tung Sahur Clicker delivers simple yet deeply satisfying idle click
 1.  **Tap to Earn:** Each click or tap makes Tung Sahur dance, generating coins. The more you tap, the more you earn!
 2.  **Upgrade Your Act:** Invest your hard-earned coins in a variety of hilarious and effective enhancements to boost your earnings per tap or per second.
 3.  **Unlock New Moves & Visuals:** Discover fresh dance animations, visual effects, and watch your street corner transform as you progress.
+
+   ![image](https://github.com/user-attachments/assets/dfa22e22-4c5d-44ad-902a-4587cc5334c1)
+
 
 ## Key Features
 
