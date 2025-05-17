@@ -186,7 +186,7 @@ Become part of the Tung Sahur Clicker family! Share your high scores, strategies
 
 *   🌐 **Official Website:** [tungsahurgame.com](https://tungsahurgame.com/)
 *   💬 **Discord Server:** [Join the Tung Sahur Clicker Discord!](https://discord.gg/zAkUQVH3)
-*   📺 **YouTube Channel:** [Subscribe on YouTube!]([https://www.youtube.com/@brainrot-merge])
+*   📺 **YouTube Channel:** [Subscribe on YouTube!](https://www.youtube.com/@brainrot-merge)
 
 Ready to join the dance party and click your way to meme glory? Play Tung Sahur Clicker now!
 
