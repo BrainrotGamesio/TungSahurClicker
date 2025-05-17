@@ -200,8 +200,5 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## License
 
-*(Specify your project's license here. E.g., MIT, Apache 2.0, or "All Rights Reserved" if it's proprietary).*
-
-Example for a proprietary game:
 All rights reserved. Copyright © [2025] [Tung Sahur Game].
 
