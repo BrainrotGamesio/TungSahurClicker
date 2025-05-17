@@ -189,7 +189,7 @@ Ready to join the dance party and click your way to meme glory? Play Tung Sahur 
 
 We welcome contributions from the community! If you have suggestions, bug reports, or want to contribute in other ways, please:
 
-1.  Check our [issues tab](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/issues) for existing bugs or feature requests.
+1.  Check our [issues tab](https://github.com/BrainrotGamesio/TungSahurClicker/issues) for existing bugs or feature requests.
 2.  Open a new issue if you don't find a relevant one.
 
 
